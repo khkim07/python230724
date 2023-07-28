@@ -37,4 +37,9 @@
  </widget>
  <resources/>
  <connections/>
+ <slots>
+  <slot>firstClick()</slot>
+  <slot>secondClick()</slot>
+  <slot>thirdClick()</slot>
+ </slots>
 </ui>
